@@ -1,5 +1,7 @@
 # WesternFPS
 
+~~Strikethrough~~ indicates the feature and/or issue has been added/resolved
+
 # Steps
 
 **Good camera script to handle parenting with player following parented objects movement and/or rotation**
@@ -9,8 +11,8 @@
 
 ## Movement possibilities
 
-- Walk, run, and strafe forward, left, and right
-- Walk backwards
+- ~~Walk, run, and strafe forward, left, and right~~
+- ~~Walk backwards~~
 - Crouch walk and strafe forward, left, backwards, and right
     - Cannot jump while crouched
     - Sliding uncrouches the player and plays the slide animation instead
