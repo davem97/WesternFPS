@@ -13,12 +13,12 @@
 
 - ~~Walk, run, and strafe forward, left, and right~~
 - ~~Walk backwards~~
-- Crouch walk and strafe forward, left, backwards, and right
-    - Cannot jump while crouched
+- ~~Crouch walk and strafe forward, left, backwards, and right~~
+    - ~~Cannot jump while crouched~~
     - Sliding uncrouches the player and plays the slide animation instead
-    - Cannot climb ladders, vault or mantle objects while crouching
-- Can slightly and briefly move in either forward/left/right/back direction whilst airborne after jumping
-- Cannot jump whilst performing any action such as ladder climbing or mantling
+    - ~~Cannot climb ladders, vault or mantle objects while crouching~~
+- ~~Can slightly and briefly move in either forward/left/right/back direction whilst airborne after jumping~~
+- ~~Cannot jump whilst performing any action such as ladder climbing or mantling~~
 - There will be no mantle areas that require a ceiling check
 - Three different fall animations for short, medium, and high falls
 - No long slopes to slide down on
